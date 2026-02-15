@@ -70,3 +70,4 @@ For more detailed documentation, see the `docs/` directory:
 - [API Documentation](docs/api.md)
 - [Model Information](docs/model.md)
 - [Setup Guide](docs/setup.md)
+- [Deployment Guide](docs/deployment.md)
