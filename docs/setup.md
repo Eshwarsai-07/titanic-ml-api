@@ -10,7 +10,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Eshwarsai-07/titanic-ml-api
     cd titanic-ml-api
     ```
 

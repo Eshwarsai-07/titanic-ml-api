@@ -6,7 +6,9 @@ This project provides a Machine Learning API for predicting the survival of Tita
 
 - **Predict Survival**: Endpoint to predict if a passenger would survive based on their details.
 - **Health Check**: Endpoint to check if the API is running.
+- **Model Training**: Jupyter notebook (`notebooks/week2.ipynb`) available for model training and experimentation.
 - **Dockerized**: specific `Dockerfile` for easy deployment.
+
 - **Type Safety**: Uses `Pydantic` for request validation.
 
 ## Quick Start
